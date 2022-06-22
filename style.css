@@ -1,0 +1,398 @@
+div {
+    border: 2px solid white
+}
+.container {
+    overflow: hidden;
+}
+#green {
+    background-color: rgb(51, 105, 30);
+}
+#green2 {
+    background-color: rgb(158, 157, 36);
+}
+#light-green {
+    background-color: rgb(76, 175, 80);
+}
+#pink {
+    background-color: rgb(245, 0, 87);
+}
+#dark-blue {
+    background-color: rgb(63, 81, 181);
+}
+#light-blue {
+    background-color: rgb(38, 198, 218);
+}
+#blue {
+    background-color: rgb(33, 150, 243);
+}
+#yellow {
+    background-color: yellow;
+}
+#orange {
+    background-color: orange;
+}
+#dark-orange {
+    background-color: rgb(255, 87, 34);
+}
+#red {
+    background-color: rgb(229, 57, 53);
+}
+#brown {
+    background-color: rgb(93, 64, 55);
+}
+#gray {
+    background-color: gray;
+}
+#dark {
+    background-color: rgb(55, 71, 79);
+}
+#violet {
+    background-color:rgb(156, 39, 176);
+}
+#dark-violet {
+    background-color: rgb(74, 20, 140);
+}
+.item-1 {
+    height: 160px;
+    width: 10px;
+}
+.item-2 {
+    height: 90px;
+    width: 34px;
+    position:fixed;
+    top: 172px;
+}
+.item-3 {
+    height: 258px;
+    width: 34px;
+    position:fixed;
+    top: 264px;
+}
+.item-4 {
+    height: 74px;
+    width: 34px;
+    position:fixed;
+    top: 524px;
+}
+.item-5 {
+    height: 18px;
+    width: 22px;
+    position:fixed;
+    top: 10px;
+    left: 22px;
+}
+.item-6 {
+    height: 90px;
+    width: 22px;
+    position:fixed;
+    top: 30px;
+    left: 22px;
+}   
+.item-7 {
+    height: 48px;
+    width: 22px;
+    position:fixed;
+    top: 122px;
+    left: 22px;
+}
+.item-8 {
+    height: 18px;
+    width: 62px;
+    position:fixed;
+    top: 10px;
+    left: 46px;
+}
+.item-9 {
+    height: 140px;
+    width: 62px;
+    position:fixed;
+    top: 30px;
+    left: 46px;
+}
+.item-10 {
+    height: 18px;
+    width: 252px;
+    position:fixed;
+    top: 10px;
+    left: 110px;
+}
+.item-11 {
+    height: 18px;
+    width: 216px;
+    position:fixed;
+    top: 10px;
+    left: 364px;
+}
+.item-12 {
+    height: 18px;
+    width: 22px;
+    position:fixed;
+    top: 10px;
+    left: 582px;
+}
+.item-13 {
+    height: 18px;
+    width: 380px;
+    position:fixed;
+    top: 30px;
+    left: 110px;
+}
+.item-14 {
+    height: 18px;
+    width: 112px;
+    position:fixed;
+    top: 30px;
+    left: 492px;
+}
+.item-15 {
+    height: 120px;
+    width: 166px;
+    position:fixed;
+    top: 50px;
+    left: 110px;
+}
+.item-16 {
+    height: 60px;
+    width: 196px;
+    position:fixed;
+    top: 50px;
+    left: 278px;
+}
+.item-17 {
+    height: 60px;
+    width: 196px;
+    position:fixed;
+    top: 110px;
+    left: 278px;
+}
+.item-18 {
+    height: 58px;
+    width: 46px;
+    position:fixed;
+    top: 50px;
+    left: 476px;
+}
+.item-19 {
+    height: 12px;
+    width: 80px;
+    position:fixed;
+    top: 50px;
+    left: 524px;
+}
+.item-20 {
+    height: 44px;
+    width: 80px;
+    position:fixed;
+    top: 64px;
+    left: 524px;
+}
+.item-21 {
+    height: 60px;
+    width: 128px;
+    position:fixed;
+    top: 110px;
+    left: 476px;
+}
+.item-22 {
+    height: 252px;
+    width: 46px;
+    position:fixed;
+    top: 10px;
+    left: 606px;
+}
+.item-23 {
+    height: 126px;
+    width: 46px;
+    position:fixed;
+    top: 10px;
+    left: 654px;
+}
+.item-24 {
+    height: 126px;
+    width: 46px;
+    position:fixed;
+    top: 136px;
+    left: 654px;
+}
+.item-25 {
+    height: 426px;
+    width: 14px;
+    position:fixed;
+    top: 172px;
+    left: 46px;
+}
+.item-26 {
+    height: 82px;
+    width: 46px;
+    position:fixed;
+    top: 172px;
+    left: 62px;
+}
+.item-27 {
+    height: 182px;
+    width: 46px;
+    position:fixed;
+    top: 256px;
+    left: 62px;
+}
+.item-28 {
+    height: 158px;
+    width: 76px;
+    position:fixed;
+    top: 440px;
+    left: 62px;
+}
+.item-29 {
+    height: 34px;
+    width: 282px;
+    position:fixed;
+    top: 172px;
+    left: 110px;
+}
+.item-30 {
+    height: 108px;
+    width: 114px;
+    position:fixed;
+    top: 208px;
+    left: 110px;
+}
+.item-31 {
+    height: 72px;
+    width: 166px;
+    position:fixed;
+    top: 208px;
+    left: 226px;
+}
+.item-32 {
+    height: 34px;
+    width: 234px;
+    position:fixed;
+    top: 282px;
+    left: 226px;
+}
+.item-33 {
+    height: 108px;
+    width: 22px;
+    position:fixed;
+    top: 172px;
+    left: 394px;
+}
+.item-34 {
+    height: 108px;
+    width: 42px;
+    position:fixed;
+    top: 172px;
+    left: 418px;
+}
+.item-35 {
+    height: 144px;
+    width: 142px;
+    position:fixed;
+    top: 172px;
+    left: 462px;
+}
+.item-36 {
+    height: 124px;
+    width: 94px;
+    position:fixed;
+    top: 264px;
+    left: 606px;
+}
+.item-37 {
+    height: 74px;
+    width: 24px;
+    position:fixed;
+    top: 314px;
+    left: 676px;
+}
+.item-38 {
+    height: 120px;
+    width: 94px;
+    position:fixed;
+    top: 390px;
+    left: 606px;
+}
+.item-39 {
+    height: 48px;
+    width: 68px;
+    position:fixed;
+    top: 390px;
+    left: 606px;
+}
+.item-40 {
+    height: 192px;
+    width: 38px;
+    position:fixed;
+    top: 318px;
+    left: 110px;
+}
+.item-41 {
+    height: 120px;
+    width: 216px;
+    position:fixed;
+    top: 318px;
+    left: 150px;
+}
+.item-42 {
+    height: 120px;
+    width: 236px;
+    position:fixed;
+    top: 318px;
+    left: 368px;
+}
+.item-43 {
+    height: 70px;
+    width: 216px;
+    position:fixed;
+    top: 440px;
+    left: 150px;
+}
+.item-44 {
+    height: 46px;
+    width: 36px;
+    position:fixed;
+    top: 440px;
+    left: 368px;
+}
+.item-45 {
+    height: 22px;
+    width: 36px;
+    position:fixed;
+    top: 488px;
+    left: 368px;
+}
+.item-46 {
+    height: 46px;
+    width: 198px;
+    position:fixed;
+    top: 440px;
+    left: 406px;
+}
+.item-47 {
+    height: 22px;
+    width: 198px;
+    position:fixed;
+    top: 488px;
+    left: 406px;
+}
+.item-48 {
+    height: 86px;
+    width: 294px;
+    position:fixed;
+    top: 512px;
+    left: 140px;
+}
+.item-49 {
+    height: 86px;
+    width: 168px;
+    position:fixed;
+    top: 512px;
+    left: 436px;
+}
+.item-50 {
+    height: 86px;
+    width: 94px;
+    position:fixed;
+    top: 512px;
+    left: 606px;
+}
